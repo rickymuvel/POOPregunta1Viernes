@@ -23,4 +23,38 @@ Public Class frmClientes
         cboPais.SelectedIndex = -1
         txtCodigo.Focus()
     End Sub
+
+    Private Sub btnGrabar_Click(sender As Object, e As EventArgs) Handles btnGrabar.Click
+        Try
+            objNeg.ClienteInsertar(txtCodigo.Text.ToUpper, txtCliente.Text, txtDireccion.Text.ToUpper, cboPais.SelectedValue.ToString,
+                                   txtTelefono.Text)
+            dgClientes.DataSource = objNeg.ClienteListar.Tables(0)
+            MessageBox.Show("Cliente registrado satisfactoriamente", "Aviso")
+        Catch ex As Exception
+            MessageBox.Show(ex.Message + "Error...")
+        End Try
+    End Sub
+
+    Private Sub btnActualizar_Click(sender As Object, e As EventArgs) Handles btnActualizar.Click
+        Try
+            objNeg.ClienteActualizar(txtCodigo.Text.ToUpper, txtCliente.Text, txtDireccion.Text.ToUpper, cboPais.SelectedValue.ToString,
+                                   txtTelefono.Text)
+            dgClientes.DataSource = objNeg.ClienteListar.Tables(0)
+            MessageBox.Show("Cliente actualizado satisfactoriamente", "Aviso")
+        Catch ex As Exception
+            MessageBox.Show(ex.Message + "Error...")
+        End Try
+    End Sub
+
+    Private Sub dgClientes_SelectionChanged(sender As Object, e As EventArgs) Handles dgClientes.SelectionChanged
+        Try
+            txtCodigo.Text = dgClientes.Rows(dgClientes.CurrentRow.Index).Cells(0).Value()
+            txtCliente.Text = dgClientes.Rows(dgClientes.CurrentRow.Index).Cells(1).Value()
+            txtDireccion.Text = dgClientes.Rows(dgClientes.CurrentRow.Index).Cells(2).Value()
+            cboPais.Text = dgClientes.Rows(dgClientes.CurrentRow.Index).Cells(3).Value()
+            txtTelefono.Text = dgClientes.Rows(dgClientes.CurrentRow.Index).Cells(3).Value()
+        Catch ex As Exception
+            MessageBox.Show("Debe seleccionar una fila...", "Aviso")
+        End Try
+    End Sub
 End Class
