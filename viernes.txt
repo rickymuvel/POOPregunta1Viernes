@@ -1,0 +1,1 @@
+El archivo video.exe representa al video del día jueves. El archivo viernes.exe, representa al día viernes.
