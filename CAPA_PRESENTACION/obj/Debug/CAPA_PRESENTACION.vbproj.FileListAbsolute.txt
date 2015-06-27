@@ -15,3 +15,4 @@ C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Deb
 C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.xml
 C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.vbprojResolveAssemblyReference.cache
 C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frmClientes.resources
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frmReporte.resources
