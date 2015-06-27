@@ -1,0 +1,12 @@
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Resources.resources
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbproj.GenerateResource.Cache
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA ACCESO DATOS.dll
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA ACCESO DATOS.pdb
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA ACCESO DATOS.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA ACCESO DATOS\bin\Debug\CAPA ACCESO DATOS.dll
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA ACCESO DATOS\bin\Debug\CAPA ACCESO DATOS.pdb
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA ACCESO DATOS\bin\Debug\CAPA ACCESO DATOS.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA ACCESO DATOS\obj\Debug\CAPA_ACCESO_DATOS.Resources.resources
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA ACCESO DATOS\obj\Debug\CAPA ACCESO DATOS.vbproj.GenerateResource.Cache
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA ACCESO DATOS\obj\Debug\CAPA ACCESO DATOS.dll
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA ACCESO DATOS\obj\Debug\CAPA ACCESO DATOS.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA ACCESO DATOS\obj\Debug\CAPA ACCESO DATOS.pdb

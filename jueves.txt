@@ -1,0 +1,14 @@
+Final:
+Pregunta 1. Mantenimiento en capas con un reporte
+- Crear estructura de aplicación en capas.
+	Acceso a datos. <- Biblioteca de clases
+		Agregamos clase-> ClienteDA.vb
+	Negocios <- Biblioteca de clases
+	Presentación <-
+
+Si la solución se va, entonces vamos a archivo/agregar nuevo proyecto/agregar la otra biblioteca de clases llamada capa negocios. De esta forma si o si, va a aparecer la solución (Esto es en caso desaparezca la solución)
+
+
+
+
+Terminamos la clase de negocios :o

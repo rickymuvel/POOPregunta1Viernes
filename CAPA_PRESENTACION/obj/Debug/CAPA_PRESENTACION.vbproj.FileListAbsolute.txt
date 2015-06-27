@@ -1,0 +1,17 @@
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Resources.resources
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.vbproj.GenerateResource.Cache
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA ACCESO DATOS.dll
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA ACCESO DATOS.pdb
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA ACCESO DATOS.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.xml
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.vbprojResolveAssemblyReference.cache
+C:\Users\Cibertec\Desktop\solucion MANTENIMIENTO CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.frmClientes.resources
